@@ -1,0 +1,5 @@
+Hallo, hier ben ik dan.
+
+Ik ben volop bezig met het leren van Git.
+
+Ieder van ons is nu bezig met een tekstje voor de eerste keer naar Git-Hub te plaatsen.
